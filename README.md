@@ -1,3 +1,3 @@
-# react-blog-project
+# react-movie-service
 
-리액트로 블로그 만들기 예제 (nomadcoders)
+ReactJS로 영화 웹 서비스 만들기 (nomadcoders)
